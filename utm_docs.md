@@ -15,14 +15,14 @@ Programme of doctoral studies implies two essential components
 
 Regardless of the form of organizing (full-time/part-time), doctoral studies are correspondent with 180 transferable credits.
 
-Doctoral studies at TUM are realized through a scientific doctorate which results in producing original scientific knowledge relevant internationally, based on the scientific method.
+Doctoral studies at TUM are realized through a science doctorate which results in producing original scientific knowledge relevant internationally, based on the scientific method.
 
 ### Admission process
 Admission is based on obtaining financing from the budget or other legal sources. Consilium of the doctoral school elaborates and approves the methodology for admitting doctoral candidates each year.
 
 The selection process of candidates for vacant positions with the school is realized by the doctoral advisor who will be guiding the potential doctoral candidate. Following a proposal by the advisor a candidate may be inmatriculated only based on a favorable decision by the Consilium of the doctoral school.
 
-Only candidates posessing a master's degree or its equivalent (national or international) are eligible for participation in the selection process. Exceptions are made in cases where the master's degree doesn't correspond to the chosen domain, in such cases candidates need to prove relevant knowledge/competence through participation in research projects, professional schools, through publishing articles in reviewed scientific journals -- relevant to the domain.
+Only candidates posessing a master's degree or its equivalent (national or international) are eligible for participation in the selection process. Exceptions are made in cases where the master's degree doesn't correspond to the chosen domain, in such cases candidates need to prove relevant knowledge/competence through participation in research projects, professional schools, through publishing articles in reviewed science journals -- relevant to the domain.
 
 Full-time doctoral students financed from the state's budged receive an additional monthly stipend starting with the inmatriculation date.
 
@@ -99,7 +99,7 @@ a. advanced studies programme that includes:
 b. and/or an individual scientific research programme:
 - publishing of articles in indexated national and international journals;
 - research reports approved by the doctoral school;
-- participation in scientific conferences;
+- participation in science conferences;
 - intellectual property titles etc;
 - successful public thesis defense.
 
@@ -133,11 +133,11 @@ If a doctoral student fails to complete the advanced studies programme, he/she w
 Advanced studies are finalized by elaborating a scientific research project by the doctoral student under the guidance of the thesis advisor.
 
 #### Scientific research programme
-The scientific research programme assumes implementation of a scientific project as agreed on by the doctoral student, the scientific advisor, and the advisory commitee.
+The scientific research programme assumes implementation of a science project as agreed on by the doctoral student, the science advisor, and the advisory commitee.
 
-The responsibility for the project lies with the scientific advisor.
+The responsibility for the project lies with the science advisor.
 
-The student's research activity is evaluated based on three short research reports ("referats"), three project reports, 1 finished research project (within the first year of studies), additional activities (with obtainable ECTS), scientific publications or OPI[?] (with obtainable ECTS), and a doctoral thesis (40 ECTS).
+The student's research activity is evaluated based on three short research reports ("referats"), three project reports, 1 finished research project (within the first year of studies), additional activities (with obtainable ECTS), science publications or OPI[?] (with obtainable ECTS), and a doctoral thesis (40 ECTS).
 
 | 1st year | 2nd year | 3rd year | 4th year | Total |
 | - | - | - | - | - |
@@ -171,3 +171,57 @@ Doctoral students whose project is rejected aren't promoted to the doctoral rese
 The thesis advisor is responsible for the entire process of scientific enquiry of their student. The advisor is obligated to take any and all necessary measures for assuring the right conditions, information, and available knowledge for the student -- to maximize the student's chances of finishing the doctoral programme.
 
 ### Doctoral thesis and doctoral studies finalization
+The doctoral school can establish the format and typeset of the thesis, which can include specific graphical and structural elements that the student is obligated to respect.
+
+The contents of the thesis are determined by the student with input from the thesis advisor and should respect the structure and constraints as requested by the doctoral school.
+
+The title of the thesis can be modified at a special session during one of the meetings at the host institution, at the request of the student with the approval from the thesis advisor and the advisory commitee -- right up to the established time of the public defense. 
+
+Topic changes aren't allowed for theses that are fully financed from the state's budget.
+
+Topic changes are allowed for theses that are self-financed, if the change happens at least 1 year before the final approval at the host institution at a special session during one of the meetings. Topic change has to be documented in the session's protocol and included in the student's personal file, with final approval from the Scientific Consilium of TUM.
+
+The doctoral thesis is a completely original work, therefore for any borrowed material the external source has to be explicitly mentioned.
+
+The doctoral student -- as the author of the thesis -- assumes responsibility for the correctness of the data and information presented in the thesis, as well as opinions and statements expressed.
+
+The thesis advisor assumes responsibility -- together with the student -- for respecting standards of quality and professional ethics, including ensuring the originality of the contents.
+
+Doctoral theses along with appendices are public documents that are edited digitally. The thesis is published on the website of the organization responsible for awarding science degrees -- repecting the author's copyright according to law.
+
+Doctoral studies conclude with a defense at a public meeting in front of the doctoral commission. The defense can take place only after receiving approval from the thesis advisor and the advisory commitee. 
+
+In case of any violations of good conduct in research and development -- including plagiarism or fabrication of results -- while working on the thesis, by the thesis advisor or the advisory commitee, the permission to defend isn't granted, and the student is immediately exmatriculated.
+
+Members of the advisory commitee have to conform to the minimal standerds of scientific performance established by the doctoral school and TUM.
+
+The doctoral student is strictly forbidden from making gifts to members of the advisory commitee or financially contributing to work-related trips of the members of the advisory commitee or the public defense.
+
+The diploma awarded upon graduation holds the title of "doctor's diploma". The diploma confirms the official title of "doctor" and explicitly mentions the domain of research, and the doctorand's professional domain.
+
+Upon completion of the doctoral studies the doctorand is awarded the diploma and the title of "doctor of sciences" with the "Dr." acronym.
+
+The diploma contains a qualificative grade obtained by the doctorand: Excellent, Very good, Good, Satisfactory.
+
+### Rights and obligations of the doctoral student
+During the doctoral study programme students have the right to:
+- benefit from support and guidance by the thesis advisor and the advisory commitee;
+- participate in seminars or reunions of the research and development personnel of the host institution when topics relevant to the student's thesis are discussed;
+- be represented during official fora of the doctoral school where decisions are made that could influence the student;
+- benefit from services of logistical, documentation centers, libraries, and use of equipment owned by the doctoral school and its organizational institutions for research activities tied to the thesis; 
+- sign up for courses, seminars and laboratory work of any level organized by the host institution or its partners (with exceptions);
+- work with research teams from the host institution and doctoral school or its partners;
+- take part in national or international mobility programmes;
+- benefit from institutional support for participation in science conferences or congresses, workshops, summer schools, national and international seminars in corresponding domains;
+- be informed about the curriculum;
+- benefit from academic leave due to personal or health-related issues;
+- benefit from parental leave (as stipulated in the Labor Codex);
+- interrupt doctoral studies for studies abroad with a period of up to two years, with the subsequent extension of the doctoral studies;
+- be reinstated as a student in case of prior exmatriculation for reasons other than unsatisfactory performance, no later than 5 years after the date of exmatriculation.
+
+Doctoral students have the following obligations:
+- to respect the schedule established together with the thesis advisor, and to present all required reports and results of the research;
+- to present activity reports to the thesis advisor and advisory commitee as many times as requested;
+- to be in constant communication with the thesis advisor;
+- to respect the ethics and discipline of the host institution;
+- to pay all fees in full without delays in case of self-financed studies.
